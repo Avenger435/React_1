@@ -11,3 +11,6 @@ let const --
 
 let -- for mutalble reference variable 
 const for immutable refernce variable
+
+
+var let const not used then JS assumes it as a variable.
