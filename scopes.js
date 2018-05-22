@@ -1,5 +1,5 @@
-//Scopes
-"use-strict"
+
+
 var v=1;
 function f1(){
 console.log(v);
